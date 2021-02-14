@@ -9,3 +9,7 @@ After cloning, make sure to install required packages for both front and backend
 
 Then run them, executing command for both separetly:
 ### 'npm start'
+
+In order to login, use credentials:
+##### email: example@mail.com
+##### password: Password!
